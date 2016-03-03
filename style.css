@@ -1,15 +1,33 @@
 header{
 	font-color:black;
 	text-align: center;
-	padding:left 200px;
+
 	
 	
 
 
 }
 img{
-	padding-left: 70px;
 
+	padding-right: 600px;
+	height: 400px;
+	width: 400px;
+	
+
+}
+
+
+#map{
+
+	height:200px;
+}
+
+
+head{
+	text-align: center;
+	padding-left: 400px;
+	font:bold;
+	padding-right: 400px;
 }
 ul{
 
@@ -18,17 +36,7 @@ font:bold;
 padding-right: 500px;
 color: black;
 }
-}
-p{ 
-padding-left:400px;
-
-}
-
-}
-}
 
 
-
-h1{color:black;}
 
 
